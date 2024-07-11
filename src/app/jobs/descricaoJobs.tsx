@@ -49,8 +49,8 @@ export default function DescricaoJobsComponent({ job, auth }: any) {
       >
         <DrawerOverlay />
         <DrawerContent>
-          <DrawerCloseButton />
-          <DrawerHeader>Detalhes da Vaga</DrawerHeader>
+          <DrawerCloseButton mt={5} />
+          <DrawerHeader mt={4}>Detalhes da Vaga</DrawerHeader>
 
           <DrawerBody dangerouslySetInnerHTML={{ __html: detalhesHtml }} />
 

@@ -46,8 +46,8 @@ export default function AgendaJobsComponent({ job, auth }: any) {
       >
         <DrawerOverlay />
         <DrawerContent h={'100vh'}>
-          <DrawerCloseButton />
-          <DrawerHeader mt={8}>Agendar Entrevista - {job.vaga}</DrawerHeader>
+          <DrawerCloseButton mt={8} />
+          <DrawerHeader mt={6}>Agendar Entrevista</DrawerHeader>
 
           <DrawerBody>
             <Flex flexDirection="column">
