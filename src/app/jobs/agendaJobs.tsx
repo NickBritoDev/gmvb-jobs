@@ -16,11 +16,10 @@ import {
 } from '@chakra-ui/react'
 import FormJobsComponent from './formJobs'
 
-export default function AgendaJobsComponent({ job }: any) {
+export default function AgendaJobsComponent({ job, auth }: any) {
   const toast = useToast()
   const { isOpen, onOpen, onClose } = useDisclosure()
   const btnRef = useRef(null)
-  const auth = false
 
   const agendar = () => {
     onClose()

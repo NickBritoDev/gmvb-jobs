@@ -17,7 +17,7 @@ import {
 import { MdOutlineWork } from 'react-icons/md'
 import AgendaJobsComponent from './agendaJobs'
 
-export default function DescricaoJobsComponent({ job }: any) {
+export default function DescricaoJobsComponent({ job, auth }: any) {
   const { isOpen, onOpen, onClose } = useDisclosure()
   const btnRef = useRef(null)
 
@@ -114,7 +114,7 @@ export default function DescricaoJobsComponent({ job }: any) {
           </DrawerBody>
 
           <DrawerFooter display={'flex'} flexDir={'column'} alignItems={'center'} justifyContent={'center'} gap={1}>
-            <AgendaJobsComponent job={job}/>
+            <AgendaJobsComponent auth={auth} job={job}/>
             <Button w={'100%'} onClick={onClose}>Fechar</Button>
           </DrawerFooter>
         </DrawerContent>
