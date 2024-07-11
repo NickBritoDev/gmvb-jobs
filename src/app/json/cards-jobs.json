@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "vaga": "Desenvolvedor Junior React",
+    "cep": "03695010",
+    "logradouro": "Rua XV de Novembro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Desenvolvedor Junior React",
+      "salario": 3000.00,
+      "descricao": [
+        "Estamos em busca de um Desenvolvedor Junior React talentoso e motivado para se juntar à nossa equipe.",
+        "O candidato ideal deverá ter paixão por desenvolvimento de software, interesse em aprender novas tecnologias e habilidade para trabalhar de forma colaborativa em um ambiente dinâmico."
+      ],
+      "responsabilidades": [
+        "Desenvolver e manter componentes de interface do usuário utilizando React.",
+        "Colaborar com designers e outros desenvolvedores para criar aplicações web responsivas e de alta qualidade.",
+        "Participar de revisões de código e testes para garantir a qualidade e a eficiência do código.",
+        "Contribuir para a melhoria contínua dos processos de desenvolvimento e das práticas de codificação.",
+        "Acompanhar as tendências e melhores práticas do setor para aplicar no desenvolvimento de projetos."
+      ],
+      "requisitos": [
+        "Conhecimento básico de JavaScript, HTML e CSS.",
+        "Experiência com React, incluindo hooks como useState e useEffect.",
+        "Familiaridade com gerenciamento de estado e bibliotecas como Redux será um diferencial.",
+        "Habilidade para resolver problemas, pensar de forma crítica, boa comunicação e capacidade de trabalhar em equipe."
+      ],
+      "diferenciais": [
+        "Experiência com TypeScript.",
+        "Conhecimento de ferramentas de build como Webpack, Vite ou similares.",
+        "Experiência com testes unitários e de integração.",
+        "Familiaridade com bibliotecas de UI como Chakra UI.",
+        "Experiência com desenvolvimento de aplicações Electron."
+      ],
+      "beneficios": [
+        "Ambiente de trabalho colaborativo e dinâmico.",
+        "Oportunidade de crescimento e desenvolvimento profissional.",
+        "Participação em projetos inovadores e desafiadores.",
+        "Flexibilidade de horário.",
+        "Possibilidade de trabalho remoto."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "vaga": "Analista de Recursos Humanos",
+    "cep": "30130000",
+    "logradouro": "Avenida Afonso Pena",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Analista de Recursos Humanos",
+      "salario": 4000.00,
+      "descricao": [
+        "Procuramos um Analista de Recursos Humanos para apoiar nossas operações de RH e garantir a conformidade com as políticas da empresa.",
+        "O candidato ideal terá experiência em recrutamento, treinamento e desenvolvimento de colaboradores."
+      ],
+      "responsabilidades": [
+        "Conduzir processos de recrutamento e seleção.",
+        "Elaborar e implementar programas de treinamento.",
+        "Acompanhar e avaliar o desempenho dos colaboradores.",
+        "Garantir a conformidade com as normas e políticas da empresa.",
+        "Atuar como ponto de contato para questões de RH."
+      ],
+      "requisitos": [
+        "Graduação em Recursos Humanos, Administração ou áreas afins.",
+        "Experiência em recrutamento e seleção.",
+        "Conhecimento em legislação trabalhista.",
+        "Excelentes habilidades de comunicação e interpessoais."
+      ],
+      "diferenciais": [
+        "Experiência com sistemas de gestão de RH.",
+        "Certificações na área de Recursos Humanos."
+      ],
+      "beneficios": [
+        "Plano de saúde e odontológico.",
+        "Vale-refeição.",
+        "Auxílio-transporte.",
+        "Bônus por desempenho."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "vaga": "Especialista em Marketing Digital",
+    "cep": "40130000",
+    "logradouro": "Avenida Sete de Setembro",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Especialista em Marketing Digital",
+      "salario": 4500.00,
+      "descricao": [
+        "Buscamos um Especialista em Marketing Digital para desenvolver e implementar estratégias de marketing online.",
+        "O candidato ideal terá experiência em SEO, SEM, e campanhas de mídia social."
+      ],
+      "responsabilidades": [
+        "Desenvolver e implementar estratégias de marketing digital.",
+        "Gerenciar campanhas de SEO e SEM.",
+        "Monitorar e analisar o desempenho das campanhas.",
+        "Colaborar com a equipe de conteúdo para otimizar o marketing de mídia social.",
+        "Manter-se atualizado com as tendências de marketing digital."
+      ],
+      "requisitos": [
+        "Experiência comprovada em marketing digital.",
+        "Conhecimento em SEO, SEM, Google Analytics e ferramentas de automação de marketing.",
+        "Excelentes habilidades de comunicação e escrita."
+      ],
+      "diferenciais": [
+        "Certificações em marketing digital.",
+        "Experiência com plataformas de e-commerce."
+      ],
+      "beneficios": [
+        "Ambiente de trabalho dinâmico e criativo.",
+        "Oportunidade de desenvolvimento profissional.",
+        "Plano de saúde e odontológico.",
+        "Vale-refeição."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "vaga": "Assistente Administrativo",
+    "cep": "70040900",
+    "logradouro": "Esplanada dos Ministérios",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Assistente Administrativo",
+      "salario": 2500.00,
+      "descricao": [
+        "Procuramos um Assistente Administrativo para apoiar nossas operações diárias e garantir a eficiência do escritório.",
+        "O candidato ideal será organizado e terá habilidades em administração de escritório."
+      ],
+      "responsabilidades": [
+        "Gerenciar agendas e compromissos.",
+        "Atender chamadas telefônicas e responder e-mails.",
+        "Preparar relatórios e documentos.",
+        "Organizar e manter arquivos.",
+        "Apoiar a equipe administrativa em diversas tarefas."
+      ],
+      "requisitos": [
+        "Experiência em funções administrativas.",
+        "Excelentes habilidades organizacionais.",
+        "Proficiente em Microsoft Office.",
+        "Boa comunicação escrita e verbal."
+      ],
+      "diferenciais": [
+        "Experiência com sistemas de gestão de documentos."
+      ],
+      "beneficios": [
+        "Vale-transporte.",
+        "Vale-refeição.",
+        "Plano de saúde.",
+        "Ambiente de trabalho colaborativo."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "vaga": "Consultor de Vendas",
+    "cep": "80045100",
+    "logradouro": "Rua XV de Novembro",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Consultor de Vendas",
+      "salario": 3000.00,
+      "descricao": [
+        "Estamos em busca de um Consultor de Vendas para aumentar nossas vendas e expandir nossa base de clientes.",
+        "O candidato ideal terá habilidades de negociação e experiência em vendas."
+      ],
+      "responsabilidades": [
+        "Identificar e prospectar novos clientes.",
+        "Manter relacionamentos com clientes existentes.",
+        "Negociar contratos e fechar vendas.",
+        "Acompanhar o mercado e identificar oportunidades de negócios.",
+        "Trabalhar para atingir metas de vendas."
+      ],
+      "requisitos": [
+        "Experiência em vendas.",
+        "Excelentes habilidades de comunicação e negociação.",
+        "Habilidade para trabalhar de forma independente e em equipe.",
+        "Conhecimento em CRM será um diferencial."
+      ],
+      "diferenciais": [
+        "Experiência no setor de tecnologia."
+      ],
+      "beneficios": [
+        "Comissões sobre vendas.",
+        "Plano de saúde.",
+        "Vale-refeição.",
+        "Ambiente de trabalho dinâmico."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "vaga": "Analista Financeiro",
+    "cep": "20040007",
+    "logradouro": "Avenida Rio Branco",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Analista Financeiro",
+      "salario": 5000.00,
+      "descricao": [
+        "Buscamos um Analista Financeiro para gerir nossas finanças e garantir a saúde financeira da empresa.",
+        "O candidato ideal terá experiência em análise financeira e planejamento financeiro."
+      ],
+      "responsabilidades": [
+        "Analisar demonstrações financeiras.",
+        "Elaborar relatórios financeiros.",
+        "Realizar projeções financeiras.",
+        "Apoiar a tomada de decisões estratégicas.",
+        "Gerir o orçamento da empresa."
+      ],
+      "requisitos": [
+        "Graduação em Finanças, Contabilidade ou áreas afins.",
+        "Experiência em análise financeira.",
+        "Excelentes habilidades analíticas.",
+        "Proficiente em Excel e software financeiro."
+      ],
+      "diferenciais": [
+        "Certificações em finanças ou contabilidade.",
+        "Experiência com ERP."
+      ],
+      "beneficios": [
+        "Plano de saúde e odontológico.",
+        "Vale-refeição.",
+        "Auxílio-transporte.",
+        "Bônus por desempenho."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "vaga": "Coordenador de Marketing",
+    "cep": "65010000",
+    "logradouro": "Rua Grande",
+    "cidade": "São Luís",
+    "estado": "MA",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Coordenador de Marketing",
+      "salario": 6000.00,
+      "descricao": [
+        "Estamos em busca de um Coordenador de Marketing para liderar nossa equipe de marketing e desenvolver estratégias eficazes.",
+        "O candidato ideal terá experiência em liderança e marketing estratégico."
+      ],
+      "responsabilidades": [
+        "Desenvolver e implementar estratégias de marketing.",
+        "Liderar a equipe de marketing.",
+        "Gerenciar campanhas publicitárias.",
+        "Analisar o desempenho das campanhas.",
+        "Colaborar com outras áreas da empresa para alinhar estratégias."
+      ],
+      "requisitos": [
+        "Experiência em marketing e liderança.",
+        "Excelentes habilidades de comunicação e liderança.",
+        "Conhecimento em ferramentas de marketing digital.",
+        "Graduação em Marketing, Administração ou áreas afins."
+      ],
+      "diferenciais": [
+        "Pós-graduação em Marketing.",
+        "Experiência com CRM."
+      ],
+      "beneficios": [
+        "Plano de saúde.",
+        "Vale-refeição.",
+        "Bônus por desempenho.",
+        "Ambiente de trabalho dinâmico."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "vaga": "Assistente Financeiro",
+    "cep": "69060000",
+    "logradouro": "Avenida Djalma Batista",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Assistente Financeiro",
+      "salario": 2800.00,
+      "descricao": [
+        "Procuramos um Assistente Financeiro para apoiar nossas operações financeiras diárias.",
+        "O candidato ideal terá experiência em rotinas financeiras e habilidades organizacionais."
+      ],
+      "responsabilidades": [
+        "Lançamentos contábeis.",
+        "Conciliação bancária.",
+        "Emissão de notas fiscais.",
+        "Controle de contas a pagar e receber.",
+        "Apoio na elaboração de relatórios financeiros."
+      ],
+      "requisitos": [
+        "Experiência em rotinas financeiras.",
+        "Conhecimento em contabilidade.",
+        "Proficiente em Excel.",
+        "Boa comunicação escrita e verbal."
+      ],
+      "diferenciais": [
+        "Experiência com ERP financeiro."
+      ],
+      "beneficios": [
+        "Vale-transporte.",
+        "Vale-refeição.",
+        "Plano de saúde.",
+        "Ambiente de trabalho colaborativo."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "vaga": "Analista de Sistemas",
+    "cep": "59020000",
+    "logradouro": "Avenida Hermes da Fonseca",
+    "cidade": "Natal",
+    "estado": "RN",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Analista de Sistemas",
+      "salario": 4500.00,
+      "descricao": [
+        "Estamos em busca de um Analista de Sistemas para apoiar no desenvolvimento e manutenção de sistemas internos.",
+        "O candidato ideal terá experiência em análise de sistemas e desenvolvimento de software."
+      ],
+      "responsabilidades": [
+        "Analisar requisitos de sistemas.",
+        "Desenvolver e manter sistemas internos.",
+        "Realizar testes e garantir a qualidade do software.",
+        "Documentar processos e sistemas.",
+        "Colaborar com a equipe de desenvolvimento."
+      ],
+      "requisitos": [
+        "Graduação em Ciência da Computação, Engenharia de Software ou áreas afins.",
+        "Experiência em desenvolvimento de software.",
+        "Conhecimento em linguagens de programação.",
+        "Excelentes habilidades analíticas."
+      ],
+      "diferenciais": [
+        "Experiência com metodologias ágeis.",
+        "Certificações em TI."
+      ],
+      "beneficios": [
+        "Plano de saúde e odontológico.",
+        "Vale-refeição.",
+        "Auxílio-transporte.",
+        "Ambiente de trabalho dinâmico."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "vaga": "Gerente de Projetos",
+    "cep": "78048000",
+    "logradouro": "Avenida do CPA",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "agenda": {
+      "disponiveis": 12,
+      "ocupados": 8,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "12/08/2024",
+          "hora": "12:00"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "14:30"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "12:00"
+        }
+      ]
+    },
+    "detalhes": {
+      "vaga": "Gerente de Projetos",
+      "salario": 7000.00,
+      "descricao": [
+        "Procuramos um Gerente de Projetos para liderar e coordenar projetos estratégicos da empresa.",
+        "O candidato ideal terá experiência em gestão de projetos e habilidades de liderança."
+      ],
+      "responsabilidades": [
+        "Planejar e coordenar projetos.",
+        "Gerenciar equipe de projetos.",
+        "Garantir o cumprimento de prazos e orçamento.",
+        "Comunicar-se com stakeholders.",
+        "Acompanhar o progresso e relatórios dos projetos."
+      ],
+      "requisitos": [
+        "Experiência em gestão de projetos.",
+        "Habilidades de liderança.",
+        "Conhecimento em metodologias de gestão de projetos.",
+        "Excelentes habilidades de comunicação."
+      ],
+      "diferenciais": [
+        "Certificação PMP.",
+        "Experiência com projetos de TI."
+      ],
+      "beneficios": [
+        "Plano de saúde e odontológico.",
+        "Vale-refeição.",
+        "Bônus por desempenho.",
+        "Ambiente de trabalho dinâmico."
+      ]
+    }
+  }
+]
