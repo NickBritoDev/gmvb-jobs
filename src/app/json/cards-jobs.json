@@ -25,558 +25,202 @@
         }
       ]
     },
-    "detalhes": {
-      "vaga": "Desenvolvedor Junior React",
-      "salario": 3000.00,
-      "descricao": [
-        "Estamos em busca de um Desenvolvedor Junior React talentoso e motivado para se juntar à nossa equipe.",
-        "O candidato ideal deverá ter paixão por desenvolvimento de software, interesse em aprender novas tecnologias e habilidade para trabalhar de forma colaborativa em um ambiente dinâmico."
-      ],
-      "responsabilidades": [
-        "Desenvolver e manter componentes de interface do usuário utilizando React.",
-        "Colaborar com designers e outros desenvolvedores para criar aplicações web responsivas e de alta qualidade.",
-        "Participar de revisões de código e testes para garantir a qualidade e a eficiência do código.",
-        "Contribuir para a melhoria contínua dos processos de desenvolvimento e das práticas de codificação.",
-        "Acompanhar as tendências e melhores práticas do setor para aplicar no desenvolvimento de projetos."
-      ],
-      "requisitos": [
-        "Conhecimento básico de JavaScript, HTML e CSS.",
-        "Experiência com React, incluindo hooks como useState e useEffect.",
-        "Familiaridade com gerenciamento de estado e bibliotecas como Redux será um diferencial.",
-        "Habilidade para resolver problemas, pensar de forma crítica, boa comunicação e capacidade de trabalhar em equipe."
-      ],
-      "diferenciais": [
-        "Experiência com TypeScript.",
-        "Conhecimento de ferramentas de build como Webpack, Vite ou similares.",
-        "Experiência com testes unitários e de integração.",
-        "Familiaridade com bibliotecas de UI como Chakra UI.",
-        "Experiência com desenvolvimento de aplicações Electron."
-      ],
-      "beneficios": [
-        "Ambiente de trabalho colaborativo e dinâmico.",
-        "Oportunidade de crescimento e desenvolvimento profissional.",
-        "Participação em projetos inovadores e desafiadores.",
-        "Flexibilidade de horário.",
-        "Possibilidade de trabalho remoto."
-      ]
-    }
+    "detalhes": "<h2><b>Empresa Grupo Mais Valor</b></h2><p><b>Recrutadora: Suelen Santana</b></p><p><b><br></b></p><p><b>Vaga para Programador Java</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um Programador Java para integrar nossa equipe. Confira os detalhes:</p><ul><li>Desenvolvimento e manutenção de aplicações Java;</li><li>Participação em todas as fases do ciclo de desenvolvimento de software: análise, especificação, desenvolvimento, testes e implementação;</li><li>Colaboração com equipe técnica e stakeholders para garantir a entrega de soluções eficientes e de qualidade;</li><li>Resolução de problemas e otimização de desempenho de aplicações.</li></ul><b>Requisitos</b><ul><li>Experiência com programação Java;</li><li>Conhecimento em frameworks Java (como Spring, Hibernate, etc.);</li><li>Familiaridade com bancos de dados relacionais (MySQL, PostgreSQL, etc.);</li><li>Graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas relacionadas (ou experiência equivalente);</li><li>Boa comunicação e trabalho em equipe.</li></ul><b>Desejável</b><ul><li>Experiência com desenvolvimento de APIs RESTful;</li><li>Conhecimento em metodologias ágeis (Scrum, Kanban, etc.);</li><li>Familiaridade com ferramentas de controle de versão (Git, SVN, etc.).</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho descontraído e colaborativo.</li></ul><p><br></p><p>Endereço: Rua 15 de Novembro 1588</p><ul></ul><p></p>"
   },
   {
     "id": 2,
-    "vaga": "Analista de Recursos Humanos",
-    "cep": "30130000",
-    "logradouro": "Avenida Afonso Pena",
-    "cidade": "Belo Horizonte",
-    "estado": "MG",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Analista de Recursos Humanos",
-      "salario": 4000.00,
-      "descricao": [
-        "Procuramos um Analista de Recursos Humanos para apoiar nossas operações de RH e garantir a conformidade com as políticas da empresa.",
-        "O candidato ideal terá experiência em recrutamento, treinamento e desenvolvimento de colaboradores."
-      ],
-      "responsabilidades": [
-        "Conduzir processos de recrutamento e seleção.",
-        "Elaborar e implementar programas de treinamento.",
-        "Acompanhar e avaliar o desempenho dos colaboradores.",
-        "Garantir a conformidade com as normas e políticas da empresa.",
-        "Atuar como ponto de contato para questões de RH."
-      ],
-      "requisitos": [
-        "Graduação em Recursos Humanos, Administração ou áreas afins.",
-        "Experiência em recrutamento e seleção.",
-        "Conhecimento em legislação trabalhista.",
-        "Excelentes habilidades de comunicação e interpessoais."
-      ],
-      "diferenciais": [
-        "Experiência com sistemas de gestão de RH.",
-        "Certificações na área de Recursos Humanos."
-      ],
-      "beneficios": [
-        "Plano de saúde e odontológico.",
-        "Vale-refeição.",
-        "Auxílio-transporte.",
-        "Bônus por desempenho."
-      ]
-    }
-  },
-  {
-    "id": 3,
-    "vaga": "Especialista em Marketing Digital",
-    "cep": "40130000",
-    "logradouro": "Avenida Sete de Setembro",
-    "cidade": "Salvador",
-    "estado": "BA",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Especialista em Marketing Digital",
-      "salario": 4500.00,
-      "descricao": [
-        "Buscamos um Especialista em Marketing Digital para desenvolver e implementar estratégias de marketing online.",
-        "O candidato ideal terá experiência em SEO, SEM, e campanhas de mídia social."
-      ],
-      "responsabilidades": [
-        "Desenvolver e implementar estratégias de marketing digital.",
-        "Gerenciar campanhas de SEO e SEM.",
-        "Monitorar e analisar o desempenho das campanhas.",
-        "Colaborar com a equipe de conteúdo para otimizar o marketing de mídia social.",
-        "Manter-se atualizado com as tendências de marketing digital."
-      ],
-      "requisitos": [
-        "Experiência comprovada em marketing digital.",
-        "Conhecimento em SEO, SEM, Google Analytics e ferramentas de automação de marketing.",
-        "Excelentes habilidades de comunicação e escrita."
-      ],
-      "diferenciais": [
-        "Certificações em marketing digital.",
-        "Experiência com plataformas de e-commerce."
-      ],
-      "beneficios": [
-        "Ambiente de trabalho dinâmico e criativo.",
-        "Oportunidade de desenvolvimento profissional.",
-        "Plano de saúde e odontológico.",
-        "Vale-refeição."
-      ]
-    }
-  },
-  {
-    "id": 4,
-    "vaga": "Assistente Administrativo",
-    "cep": "70040900",
-    "logradouro": "Esplanada dos Ministérios",
-    "cidade": "Brasília",
-    "estado": "DF",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Assistente Administrativo",
-      "salario": 2500.00,
-      "descricao": [
-        "Procuramos um Assistente Administrativo para apoiar nossas operações diárias e garantir a eficiência do escritório.",
-        "O candidato ideal será organizado e terá habilidades em administração de escritório."
-      ],
-      "responsabilidades": [
-        "Gerenciar agendas e compromissos.",
-        "Atender chamadas telefônicas e responder e-mails.",
-        "Preparar relatórios e documentos.",
-        "Organizar e manter arquivos.",
-        "Apoiar a equipe administrativa em diversas tarefas."
-      ],
-      "requisitos": [
-        "Experiência em funções administrativas.",
-        "Excelentes habilidades organizacionais.",
-        "Proficiente em Microsoft Office.",
-        "Boa comunicação escrita e verbal."
-      ],
-      "diferenciais": [
-        "Experiência com sistemas de gestão de documentos."
-      ],
-      "beneficios": [
-        "Vale-transporte.",
-        "Vale-refeição.",
-        "Plano de saúde.",
-        "Ambiente de trabalho colaborativo."
-      ]
-    }
-  },
-  {
-    "id": 5,
-    "vaga": "Consultor de Vendas",
-    "cep": "80045100",
-    "logradouro": "Rua XV de Novembro",
-    "cidade": "Curitiba",
-    "estado": "PR",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Consultor de Vendas",
-      "salario": 3000.00,
-      "descricao": [
-        "Estamos em busca de um Consultor de Vendas para aumentar nossas vendas e expandir nossa base de clientes.",
-        "O candidato ideal terá habilidades de negociação e experiência em vendas."
-      ],
-      "responsabilidades": [
-        "Identificar e prospectar novos clientes.",
-        "Manter relacionamentos com clientes existentes.",
-        "Negociar contratos e fechar vendas.",
-        "Acompanhar o mercado e identificar oportunidades de negócios.",
-        "Trabalhar para atingir metas de vendas."
-      ],
-      "requisitos": [
-        "Experiência em vendas.",
-        "Excelentes habilidades de comunicação e negociação.",
-        "Habilidade para trabalhar de forma independente e em equipe.",
-        "Conhecimento em CRM será um diferencial."
-      ],
-      "diferenciais": [
-        "Experiência no setor de tecnologia."
-      ],
-      "beneficios": [
-        "Comissões sobre vendas.",
-        "Plano de saúde.",
-        "Vale-refeição.",
-        "Ambiente de trabalho dinâmico."
-      ]
-    }
-  },
-  {
-    "id": 6,
-    "vaga": "Analista Financeiro",
-    "cep": "20040007",
+    "vaga": "Analista de Marketing Digital",
+    "cep": "20010000",
     "logradouro": "Avenida Rio Branco",
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
     "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
+      "disponiveis": 8,
+      "ocupados": 4,
       "limite": 10,
       "datas": [
         {
-          "dia": "12/08/2024",
-          "hora": "12:00"
+          "dia": "10/08/2024",
+          "hora": "10:00"
         },
         {
-          "dia": "15/08/2024",
-          "hora": "14:30"
+          "dia": "14/08/2024",
+          "hora": "15:30"
         },
         {
-          "dia": "16/08/2024",
-          "hora": "12:00"
+          "dia": "18/08/2024",
+          "hora": "11:00"
         }
       ]
     },
-    "detalhes": {
-      "vaga": "Analista Financeiro",
-      "salario": 5000.00,
-      "descricao": [
-        "Buscamos um Analista Financeiro para gerir nossas finanças e garantir a saúde financeira da empresa.",
-        "O candidato ideal terá experiência em análise financeira e planejamento financeiro."
-      ],
-      "responsabilidades": [
-        "Analisar demonstrações financeiras.",
-        "Elaborar relatórios financeiros.",
-        "Realizar projeções financeiras.",
-        "Apoiar a tomada de decisões estratégicas.",
-        "Gerir o orçamento da empresa."
-      ],
-      "requisitos": [
-        "Graduação em Finanças, Contabilidade ou áreas afins.",
-        "Experiência em análise financeira.",
-        "Excelentes habilidades analíticas.",
-        "Proficiente em Excel e software financeiro."
-      ],
-      "diferenciais": [
-        "Certificações em finanças ou contabilidade.",
-        "Experiência com ERP."
-      ],
-      "beneficios": [
-        "Plano de saúde e odontológico.",
-        "Vale-refeição.",
-        "Auxílio-transporte.",
-        "Bônus por desempenho."
+    "detalhes": "<h2><b>Empresa Digital Mais Marketing</b></h2><p><b>Recrutadora: Carolina Oliveira</b></p><p><b><br></b></p><p><b>Vaga para Analista de Marketing Digital</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um analista de marketing digital para fortalecer nossa presença online. Confira os detalhes:</p><ul><li>Planejamento e execução de estratégias de marketing digital;</li><li>Otimização de campanhas de Google Ads e redes sociais;</li><li>Análise de métricas e KPIs para melhoria contínua;</li><li>Elaboração de relatórios de performance.</li></ul><b>Requisitos</b><ul><li>Experiência comprovada em marketing digital;</li><li>Conhecimento em SEO, Google Ads e mídias sociais;</li><li>Criatividade e habilidades analíticas;</li><li>Graduação em Marketing, Publicidade ou áreas relacionadas.</li><li>Boa comunicação e habilidade para trabalhar em equipe.</li></ul><b>Desejável</b><ul><li>Certificações em Google Analytics ou Google Ads;</li><li>Experiência em ferramentas de automação de marketing.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e colaborativo.</li></ul><p><br></p><p>Endereço: Avenida Rio Branco 1234</p><ul></ul><p></p>"
+  },
+  {
+    "id": 3,
+    "vaga": "Especialista em Recursos Humanos",
+    "cep": "70000000",
+    "logradouro": "Setor Comercial Sul",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "agenda": {
+      "disponiveis": 10,
+      "ocupados": 6,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "11/08/2024",
+          "hora": "09:30"
+        },
+        {
+          "dia": "17/08/2024",
+          "hora": "14:00"
+        },
+        {
+          "dia": "19/08/2024",
+          "hora": "10:00"
+        }
       ]
-    }
+    },
+    "detalhes": "<h2><b>Empresa RH Prospere</b></h2><p><b>Recrutadora: Fernanda Silva</b></p><p><b><br></b></p><p><b>Vaga para Especialista em Recursos Humanos</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um especialista em recursos humanos para fortalecer nossa equipe. Confira os detalhes:</p><ul><li>Recrutamento e seleção de talentos;</li><li>Gestão de indicadores de RH e análise de clima organizacional;</li><li>Desenvolvimento e implementação de programas de treinamento e desenvolvimento;</li><li>Administração de benefícios e políticas internas.</li></ul><b>Requisitos</b><ul><li>Sólida experiência em recrutamento e seleção;</li><li>Conhecimento em gestão de pessoas e desenvolvimento organizacional;</li><li>Formação em Psicologia, Administração ou áreas relacionadas.</li><li>Habilidade para trabalhar com ferramentas de gestão de talentos.</li><li>Boa comunicação e habilidade para influenciar.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de grande porte;</li><li>Conhecimento em avaliação de desempenho e gestão por competências.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Setor Comercial Sul, Quadra 1, Bloco A</p><ul></ul><p></p>"
+  },
+  {
+    "id": 4,
+    "vaga": "Assistente Administrativo",
+    "cep": "90000000",
+    "logradouro": "Avenida Borges de Medeiros",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "agenda": {
+      "disponiveis": 6,
+      "ocupados": 3,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "09/08/2024",
+          "hora": "08:30"
+        },
+        {
+          "dia": "13/08/2024",
+          "hora": "13:00"
+        },
+        {
+          "dia": "20/08/2024",
+          "hora": "09:00"
+        }
+      ]
+    },
+    "detalhes": "<h2><b>Empresa Administração Eficiente</b></h2><p><b>Recrutadora: Andréia Lima</b></p><p><b><br></b></p><p><b>Vaga para Assistente Administrativo</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um assistente administrativo para apoiar nossas operações. Confira os detalhes:</p><ul><li>Atendimento telefônico e presencial;</li><li>Organização de documentos e arquivos;</li><li>Elaboração de relatórios e planilhas;</li><li>Suporte administrativo geral.</li></ul><b>Requisitos</b><ul><li>Experiência anterior em funções administrativas;</li><li>Conhecimento básico em Excel e sistemas de gestão;</li><li>Ensino médio completo ou superior em andamento.</li><li>Proatividade e habilidades organizacionais.</li><li>Boa comunicação e trabalho em equipe.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de serviços;</li><li>Conhecimento em processos de compras e logística.</li></ul><b>Benefícios</b><ul><li>Salário compatível com o mercado;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e oportunidades de desenvolvimento.</li></ul><p><br></p><p>Endereço: Avenida Borges de Medeiros 789</p><ul></ul><p></p>"
+  },
+  {
+    "id": 5,
+    "vaga": "Analista Financeiro",
+    "cep": "20050000",
+    "logradouro": "Rua do Rosário",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "agenda": {
+      "disponiveis": 10,
+      "ocupados": 5,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "08/08/2024",
+          "hora": "09:00"
+        },
+        {
+          "dia": "16/08/2024",
+          "hora": "14:00"
+        },
+        {
+          "dia": "21/08/2024",
+          "hora": "11:30"
+        }
+      ]
+    },
+    "detalhes": "<h2><b>Empresa Finanças Excel</b></h2><p><b>Recrutadora: Luana Pereira</b></p><p><b><br></b></p><p><b>Vaga para Analista Financeiro</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um analista financeiro para integrar nossa equipe. Confira os detalhes:</p><ul><li>Análise e elaboração de relatórios financeiros;</li><li>Controle de fluxo de caixa e análise de investimentos;</li><li>Participação no fechamento contábil e fiscal;</li><li>Elaboração de projeções financeiras.</li></ul><b>Requisitos</b><ul><li>Experiência sólida em análise financeira;</li><li>Conhecimento avançado em Excel e sistemas ERP;</li><li>Formação em Ciências Contábeis, Administração ou áreas afins;</li><li>Capacidade analítica e habilidades de comunicação.</li><li>Capacidade para trabalhar sob pressão e cumprir prazos.</li></ul><b>Desejável</b><ul><li>Experiência em auditoria ou consultoria financeira;</li><li>Conhecimento em inglês.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Rua do Rosário 123</p><ul></ul><p></p>"
+  },
+  {
+    "id": 6,
+    "vaga": "Coordenador de Controladoria",
+    "cep": "30110000",
+    "logradouro": "Avenida Afonso Pena",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "agenda": {
+      "disponiveis": 8,
+      "ocupados": 4,
+      "limite": 10,
+      "datas": [
+        {
+          "dia": "07/08/2024",
+          "hora": "10:30"
+        },
+        {
+          "dia": "15/08/2024",
+          "hora": "13:30"
+        },
+        {
+          "dia": "22/08/2024",
+          "hora": "09:00"
+        }
+      ]
+    },
+    "detalhes": "<h2><b>Empresa Controle Seguro</b></h2><p><b>Recrutadora: Marcela Santos</b></p><p><b><br></b></p><p><b>Vaga para Coordenador de Controladoria</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um coordenador de controladoria para liderar nossa equipe. Confira os detalhes:</p><ul><li>Gerenciamento de processos de controladoria e contabilidade;</li><li>Elaboração de relatórios gerenciais e análise de indicadores financeiros;</li><li>Desenvolvimento e implementação de políticas e procedimentos contábeis;</li><li>Colaboração com auditorias externas e internas.</li></ul><b>Requisitos</b><ul><li>Sólida experiência em controladoria;</li><li>Conhecimento avançado em contabilidade e sistemas ERP;</li><li>Formação em Ciências Contábeis, Administração ou áreas correlatas;</li><li>Capacidade de liderança e habilidades interpessoais.</li><li>Excelente comunicação e capacidade analítica.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de grande porte;</li><li>MBA ou especialização em controladoria.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e possibilidades de crescimento.</li></ul><p><br></p><p>Endereço: Avenida Afonso Pena 567</p><ul></ul><p></p>"
   },
   {
     "id": 7,
-    "vaga": "Coordenador de Marketing",
-    "cep": "65010000",
-    "logradouro": "Rua Grande",
-    "cidade": "São Luís",
-    "estado": "MA",
+    "vaga": "Desenvolvedor Full Stack",
+    "cep": "70070070",
+    "logradouro": "Setor Hoteleiro Sul",
+    "cidade": "Brasília",
+    "estado": "DF",
     "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
+      "disponiveis": 15,
+      "ocupados": 10,
+      "limite": 15,
       "datas": [
         {
-          "dia": "12/08/2024",
-          "hora": "12:00"
+          "dia": "06/08/2024",
+          "hora": "11:00"
         },
         {
-          "dia": "15/08/2024",
-          "hora": "14:30"
+          "dia": "14/08/2024",
+          "hora": "16:30"
         },
         {
-          "dia": "16/08/2024",
-          "hora": "12:00"
+          "dia": "23/08/2024",
+          "hora": "10:00"
         }
       ]
     },
-    "detalhes": {
-      "vaga": "Coordenador de Marketing",
-      "salario": 6000.00,
-      "descricao": [
-        "Estamos em busca de um Coordenador de Marketing para liderar nossa equipe de marketing e desenvolver estratégias eficazes.",
-        "O candidato ideal terá experiência em liderança e marketing estratégico."
-      ],
-      "responsabilidades": [
-        "Desenvolver e implementar estratégias de marketing.",
-        "Liderar a equipe de marketing.",
-        "Gerenciar campanhas publicitárias.",
-        "Analisar o desempenho das campanhas.",
-        "Colaborar com outras áreas da empresa para alinhar estratégias."
-      ],
-      "requisitos": [
-        "Experiência em marketing e liderança.",
-        "Excelentes habilidades de comunicação e liderança.",
-        "Conhecimento em ferramentas de marketing digital.",
-        "Graduação em Marketing, Administração ou áreas afins."
-      ],
-      "diferenciais": [
-        "Pós-graduação em Marketing.",
-        "Experiência com CRM."
-      ],
-      "beneficios": [
-        "Plano de saúde.",
-        "Vale-refeição.",
-        "Bônus por desempenho.",
-        "Ambiente de trabalho dinâmico."
-      ]
-    }
+    "detalhes": "<h2><b>Empresa Tech Inovação Total</b></h2><p><b>Recrutadora: Pedro Barbosa</b></p><p><b><br></b></p><p><b>Vaga para Desenvolvedor Full Stack</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um desenvolvedor full stack para integrar nossa equipe. Confira os detalhes:</p><ul><li>Desenvolvimento e manutenção de aplicações web;</li><li>Participação em todas as etapas do ciclo de vida do software;</li><li>Colaboração com equipe de design e desenvolvimento;</li><li>Implementação de soluções técnicas para requisitos complexos.</li></ul><b>Requisitos</b><ul><li>Experiência sólida com desenvolvimento full stack;</li><li>Conhecimento em frameworks front-end (React, Angular, Vue.js) e back-end (Node.js, Django, Spring, etc.);</li><li>Familiaridade com bancos de dados relacionais e NoSQL;</li><li>Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.</li><li>Boa comunicação e habilidades de resolução de problemas.</li></ul><b>Desejável</b><ul><li>Experiência com metodologias ágeis (Scrum, Kanban, etc.);</li><li>Conhecimento em integração contínua e entrega contínua (CI/CD);</li><li>Experiência em desenvolvimento de APIs RESTful.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho inovador e oportunidades de aprendizado.</li></ul><p><br></p><p>Endereço: Setor Hoteleiro Sul, Quadra 1, Bloco A</p><ul></ul><p></p>"
   },
   {
     "id": 8,
-    "vaga": "Assistente Financeiro",
-    "cep": "69060000",
-    "logradouro": "Avenida Djalma Batista",
-    "cidade": "Manaus",
-    "estado": "AM",
+    "vaga": "Especialista em Logística",
+    "cep": "90570030",
+    "logradouro": "Avenida Cristóvão Colombo",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
     "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
+      "disponiveis": 7,
+      "ocupados": 2,
       "limite": 10,
       "datas": [
         {
-          "dia": "12/08/2024",
+          "dia": "05/08/2024",
+          "hora": "09:30"
+        },
+        {
+          "dia": "13/08/2024",
           "hora": "12:00"
         },
         {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
+          "dia": "24/08/2024",
+          "hora": "14:00"
         }
       ]
     },
-    "detalhes": {
-      "vaga": "Assistente Financeiro",
-      "salario": 2800.00,
-      "descricao": [
-        "Procuramos um Assistente Financeiro para apoiar nossas operações financeiras diárias.",
-        "O candidato ideal terá experiência em rotinas financeiras e habilidades organizacionais."
-      ],
-      "responsabilidades": [
-        "Lançamentos contábeis.",
-        "Conciliação bancária.",
-        "Emissão de notas fiscais.",
-        "Controle de contas a pagar e receber.",
-        "Apoio na elaboração de relatórios financeiros."
-      ],
-      "requisitos": [
-        "Experiência em rotinas financeiras.",
-        "Conhecimento em contabilidade.",
-        "Proficiente em Excel.",
-        "Boa comunicação escrita e verbal."
-      ],
-      "diferenciais": [
-        "Experiência com ERP financeiro."
-      ],
-      "beneficios": [
-        "Vale-transporte.",
-        "Vale-refeição.",
-        "Plano de saúde.",
-        "Ambiente de trabalho colaborativo."
-      ]
-    }
-  },
-  {
-    "id": 9,
-    "vaga": "Analista de Sistemas",
-    "cep": "59020000",
-    "logradouro": "Avenida Hermes da Fonseca",
-    "cidade": "Natal",
-    "estado": "RN",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Analista de Sistemas",
-      "salario": 4500.00,
-      "descricao": [
-        "Estamos em busca de um Analista de Sistemas para apoiar no desenvolvimento e manutenção de sistemas internos.",
-        "O candidato ideal terá experiência em análise de sistemas e desenvolvimento de software."
-      ],
-      "responsabilidades": [
-        "Analisar requisitos de sistemas.",
-        "Desenvolver e manter sistemas internos.",
-        "Realizar testes e garantir a qualidade do software.",
-        "Documentar processos e sistemas.",
-        "Colaborar com a equipe de desenvolvimento."
-      ],
-      "requisitos": [
-        "Graduação em Ciência da Computação, Engenharia de Software ou áreas afins.",
-        "Experiência em desenvolvimento de software.",
-        "Conhecimento em linguagens de programação.",
-        "Excelentes habilidades analíticas."
-      ],
-      "diferenciais": [
-        "Experiência com metodologias ágeis.",
-        "Certificações em TI."
-      ],
-      "beneficios": [
-        "Plano de saúde e odontológico.",
-        "Vale-refeição.",
-        "Auxílio-transporte.",
-        "Ambiente de trabalho dinâmico."
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "vaga": "Gerente de Projetos",
-    "cep": "78048000",
-    "logradouro": "Avenida do CPA",
-    "cidade": "Cuiabá",
-    "estado": "MT",
-    "agenda": {
-      "disponiveis": 12,
-      "ocupados": 8,
-      "limite": 10,
-      "datas": [
-        {
-          "dia": "12/08/2024",
-          "hora": "12:00"
-        },
-        {
-          "dia": "15/08/2024",
-          "hora": "14:30"
-        },
-        {
-          "dia": "16/08/2024",
-          "hora": "12:00"
-        }
-      ]
-    },
-    "detalhes": {
-      "vaga": "Gerente de Projetos",
-      "salario": 7000.00,
-      "descricao": [
-        "Procuramos um Gerente de Projetos para liderar e coordenar projetos estratégicos da empresa.",
-        "O candidato ideal terá experiência em gestão de projetos e habilidades de liderança."
-      ],
-      "responsabilidades": [
-        "Planejar e coordenar projetos.",
-        "Gerenciar equipe de projetos.",
-        "Garantir o cumprimento de prazos e orçamento.",
-        "Comunicar-se com stakeholders.",
-        "Acompanhar o progresso e relatórios dos projetos."
-      ],
-      "requisitos": [
-        "Experiência em gestão de projetos.",
-        "Habilidades de liderança.",
-        "Conhecimento em metodologias de gestão de projetos.",
-        "Excelentes habilidades de comunicação."
-      ],
-      "diferenciais": [
-        "Certificação PMP.",
-        "Experiência com projetos de TI."
-      ],
-      "beneficios": [
-        "Plano de saúde e odontológico.",
-        "Vale-refeição.",
-        "Bônus por desempenho.",
-        "Ambiente de trabalho dinâmico."
-      ]
-    }
+    "detalhes": "<h2><b>Empresa Logística Eficiente</b></h2><p><b>Recrutadora: Renata Silva</b></p><p><b><br></b></p><p><b>Vaga para Especialista em Logística</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um especialista em logística para fortalecer nossa equipe. Confira os detalhes:</p><ul><li>Planejamento e coordenação de operações logísticas;</li><li>Otimização de processos de transporte e distribuição;</li><li>Análise de indicadores de desempenho e implementação de melhorias;</li><li>Contato com fornecedores e parceiros logísticos.</li></ul><b>Requisitos</b><ul><li>Experiência comprovada em logística, preferencialmente em empresas de grande porte;</li><li>Conhecimento em sistemas de gestão de armazéns (WMS) e ERP;</li><li>Formação em Administração, Logística, Engenharia de Produção ou áreas afins;</li><li>Habilidades analíticas e capacidade de resolver problemas complexos.</li><li>Excelente comunicação e habilidades interpessoais.</li></ul><b>Desejável</b><ul><li>Experiência internacional em logística;</li><li>MBA ou especialização em logística ou supply chain.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Avenida Cristóvão Colombo 789</p><ul></ul><p></p>"
   }
 ]
