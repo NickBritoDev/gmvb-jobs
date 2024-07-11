@@ -27,7 +27,7 @@ export default function DescricaoJobsComponent({ job, auth }: any) {
         <Flex w={'100%'} flexDir={'column'}>
           <Flex w={'100%'} alignItems={'center'} justifyContent={'space-between'}>
             <Text fontSize={18} fontWeight={'bold'}>{job.vaga}</Text>
-            <MdOutlineWork size={22} color='#229544' />
+            <MdOutlineWork size={22} color='brown' />
           </Flex>
           <Flex fontWeight={'semibold'} alignItems={'center'} justifyContent={'flex-start'} gap={1}>
             <Text>Vagas disponíveis:</Text>

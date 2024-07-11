@@ -48,7 +48,11 @@ const FiltroJobsComponent: React.FC<FiltroJobsComponentProps> = ({ filters, hand
         rightIcon={<FcFilledFilter size={22} />}
       >
         <Flex alignItems={'center'} justifyContent={'space-between'}>
-          <Image mt={1} borderRadius={'50%'} w={'45px'} src={logo} alt='logo mais valor' />
+          <Flex alignItems={'center'} justifyContent={'center'}>
+            <Text textAlign={'left'} color={'#229544'}>GMVB</Text>
+            <Image  borderRadius={'50%'} w={'45px'} src={logo} alt='logo mais valor' />
+            <Text textAlign={'left'} color={'#229544'}>JOBS</Text>
+          </Flex>
           <Text textAlign={'left'} mb={-0.5}>Filtros</Text>
         </Flex>
       </MenuButton>
