@@ -4,7 +4,7 @@ import React from 'react'
 import DescricaoJobsComponent from './descricaoJobs'
 
 export default function Jobs() {
-  const filter = 8;
+  const filter = null;
 
   const filteredJobs = filter ? agendaJobs.filter(job => job.id === filter) : agendaJobs;
 
