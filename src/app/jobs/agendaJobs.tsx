@@ -1,3 +1,5 @@
+//@ts-ignore
+//@ts-nocheck
 'use client'
 import React, { useRef } from 'react'
 import {
@@ -60,7 +62,7 @@ export default function AgendaJobsComponent({ job, auth }: any) {
                       Agendar
                     </Button>
                     :
-                    <FormJobsComponent />
+                    <FormJobsComponent job={job} />
                   }
                 </Flex>
               ))}

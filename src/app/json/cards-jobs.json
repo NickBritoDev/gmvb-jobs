@@ -25,6 +25,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Grupo Mais Valor</b></h2><p><b>Recrutadora: Suelen Santana</b></p><p><b><br></b></p><p><b>Vaga para Programador Java</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um Programador Java para integrar nossa equipe. Confira os detalhes:</p><ul><li>Desenvolvimento e manutenção de aplicações Java;</li><li>Participação em todas as fases do ciclo de desenvolvimento de software: análise, especificação, desenvolvimento, testes e implementação;</li><li>Colaboração com equipe técnica e stakeholders para garantir a entrega de soluções eficientes e de qualidade;</li><li>Resolução de problemas e otimização de desempenho de aplicações.</li></ul><b>Requisitos</b><ul><li>Experiência com programação Java;</li><li>Conhecimento em frameworks Java (como Spring, Hibernate, etc.);</li><li>Familiaridade com bancos de dados relacionais (MySQL, PostgreSQL, etc.);</li><li>Graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas relacionadas (ou experiência equivalente);</li><li>Boa comunicação e trabalho em equipe.</li></ul><b>Desejável</b><ul><li>Experiência com desenvolvimento de APIs RESTful;</li><li>Conhecimento em metodologias ágeis (Scrum, Kanban, etc.);</li><li>Familiaridade com ferramentas de controle de versão (Git, SVN, etc.).</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho descontraído e colaborativo.</li></ul><p><br></p><p>Endereço: Rua 15 de Novembro 1588</p><ul></ul><p></p>"
   },
   {
@@ -53,6 +75,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Digital Mais Marketing</b></h2><p><b>Recrutadora: Carolina Oliveira</b></p><p><b><br></b></p><p><b>Vaga para Analista de Marketing Digital</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um analista de marketing digital para fortalecer nossa presença online. Confira os detalhes:</p><ul><li>Planejamento e execução de estratégias de marketing digital;</li><li>Otimização de campanhas de Google Ads e redes sociais;</li><li>Análise de métricas e KPIs para melhoria contínua;</li><li>Elaboração de relatórios de performance.</li></ul><b>Requisitos</b><ul><li>Experiência comprovada em marketing digital;</li><li>Conhecimento em SEO, Google Ads e mídias sociais;</li><li>Criatividade e habilidades analíticas;</li><li>Graduação em Marketing, Publicidade ou áreas relacionadas.</li><li>Boa comunicação e habilidade para trabalhar em equipe.</li></ul><b>Desejável</b><ul><li>Certificações em Google Analytics ou Google Ads;</li><li>Experiência em ferramentas de automação de marketing.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e colaborativo.</li></ul><p><br></p><p>Endereço: Avenida Rio Branco 1234</p><ul></ul><p></p>"
   },
   {
@@ -81,6 +125,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa RH Prospere</b></h2><p><b>Recrutadora: Fernanda Silva</b></p><p><b><br></b></p><p><b>Vaga para Especialista em Recursos Humanos</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um especialista em recursos humanos para fortalecer nossa equipe. Confira os detalhes:</p><ul><li>Recrutamento e seleção de talentos;</li><li>Gestão de indicadores de RH e análise de clima organizacional;</li><li>Desenvolvimento e implementação de programas de treinamento e desenvolvimento;</li><li>Administração de benefícios e políticas internas.</li></ul><b>Requisitos</b><ul><li>Sólida experiência em recrutamento e seleção;</li><li>Conhecimento em gestão de pessoas e desenvolvimento organizacional;</li><li>Formação em Psicologia, Administração ou áreas relacionadas.</li><li>Habilidade para trabalhar com ferramentas de gestão de talentos.</li><li>Boa comunicação e habilidade para influenciar.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de grande porte;</li><li>Conhecimento em avaliação de desempenho e gestão por competências.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Setor Comercial Sul, Quadra 1, Bloco A</p><ul></ul><p></p>"
   },
   {
@@ -109,6 +175,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Administração Eficiente</b></h2><p><b>Recrutadora: Andréia Lima</b></p><p><b><br></b></p><p><b>Vaga para Assistente Administrativo</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um assistente administrativo para apoiar nossas operações. Confira os detalhes:</p><ul><li>Atendimento telefônico e presencial;</li><li>Organização de documentos e arquivos;</li><li>Elaboração de relatórios e planilhas;</li><li>Suporte administrativo geral.</li></ul><b>Requisitos</b><ul><li>Experiência anterior em funções administrativas;</li><li>Conhecimento básico em Excel e sistemas de gestão;</li><li>Ensino médio completo ou superior em andamento.</li><li>Proatividade e habilidades organizacionais.</li><li>Boa comunicação e trabalho em equipe.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de serviços;</li><li>Conhecimento em processos de compras e logística.</li></ul><b>Benefícios</b><ul><li>Salário compatível com o mercado;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e oportunidades de desenvolvimento.</li></ul><p><br></p><p>Endereço: Avenida Borges de Medeiros 789</p><ul></ul><p></p>"
   },
   {
@@ -137,6 +225,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Finanças Excel</b></h2><p><b>Recrutadora: Luana Pereira</b></p><p><b><br></b></p><p><b>Vaga para Analista Financeiro</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um analista financeiro para integrar nossa equipe. Confira os detalhes:</p><ul><li>Análise e elaboração de relatórios financeiros;</li><li>Controle de fluxo de caixa e análise de investimentos;</li><li>Participação no fechamento contábil e fiscal;</li><li>Elaboração de projeções financeiras.</li></ul><b>Requisitos</b><ul><li>Experiência sólida em análise financeira;</li><li>Conhecimento avançado em Excel e sistemas ERP;</li><li>Formação em Ciências Contábeis, Administração ou áreas afins;</li><li>Capacidade analítica e habilidades de comunicação.</li><li>Capacidade para trabalhar sob pressão e cumprir prazos.</li></ul><b>Desejável</b><ul><li>Experiência em auditoria ou consultoria financeira;</li><li>Conhecimento em inglês.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Rua do Rosário 123</p><ul></ul><p></p>"
   },
   {
@@ -165,6 +275,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Controle Seguro</b></h2><p><b>Recrutadora: Marcela Santos</b></p><p><b><br></b></p><p><b>Vaga para Coordenador de Controladoria</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um coordenador de controladoria para liderar nossa equipe. Confira os detalhes:</p><ul><li>Gerenciamento de processos de controladoria e contabilidade;</li><li>Elaboração de relatórios gerenciais e análise de indicadores financeiros;</li><li>Desenvolvimento e implementação de políticas e procedimentos contábeis;</li><li>Colaboração com auditorias externas e internas.</li></ul><b>Requisitos</b><ul><li>Sólida experiência em controladoria;</li><li>Conhecimento avançado em contabilidade e sistemas ERP;</li><li>Formação em Ciências Contábeis, Administração ou áreas correlatas;</li><li>Capacidade de liderança e habilidades interpessoais.</li><li>Excelente comunicação e capacidade analítica.</li></ul><b>Desejável</b><ul><li>Experiência em empresas de grande porte;</li><li>MBA ou especialização em controladoria.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho colaborativo e possibilidades de crescimento.</li></ul><p><br></p><p>Endereço: Avenida Afonso Pena 567</p><ul></ul><p></p>"
   },
   {
@@ -193,6 +325,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Tech Inovação Total</b></h2><p><b>Recrutadora: Pedro Barbosa</b></p><p><b><br></b></p><p><b>Vaga para Desenvolvedor Full Stack</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um desenvolvedor full stack para integrar nossa equipe. Confira os detalhes:</p><ul><li>Desenvolvimento e manutenção de aplicações web;</li><li>Participação em todas as etapas do ciclo de vida do software;</li><li>Colaboração com equipe de design e desenvolvimento;</li><li>Implementação de soluções técnicas para requisitos complexos.</li></ul><b>Requisitos</b><ul><li>Experiência sólida com desenvolvimento full stack;</li><li>Conhecimento em frameworks front-end (React, Angular, Vue.js) e back-end (Node.js, Django, Spring, etc.);</li><li>Familiaridade com bancos de dados relacionais e NoSQL;</li><li>Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.</li><li>Boa comunicação e habilidades de resolução de problemas.</li></ul><b>Desejável</b><ul><li>Experiência com metodologias ágeis (Scrum, Kanban, etc.);</li><li>Conhecimento em integração contínua e entrega contínua (CI/CD);</li><li>Experiência em desenvolvimento de APIs RESTful.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho inovador e oportunidades de aprendizado.</li></ul><p><br></p><p>Endereço: Setor Hoteleiro Sul, Quadra 1, Bloco A</p><ul></ul><p></p>"
   },
   {
@@ -221,6 +375,28 @@
         }
       ]
     },
+    "perguntas": [
+      {
+        "pergunta": "Tem experiencia com react?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com node js?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com aws?",
+        "resposta": "NAO"
+      },
+      {
+        "pergunta": "Tem experiencia com figma?",
+        "resposta": "SIM"
+      },
+      {
+        "pergunta": "Tem experiencia com chakra ui?",
+        "resposta": "NAO"
+      }
+    ],
     "detalhes": "<h2><b>Empresa Logística Eficiente</b></h2><p><b>Recrutadora: Renata Silva</b></p><p><b><br></b></p><p><b>Vaga para Especialista em Logística</b></p><p><b>Descrição:</b></p><p>Estamos em busca de um especialista em logística para fortalecer nossa equipe. Confira os detalhes:</p><ul><li>Planejamento e coordenação de operações logísticas;</li><li>Otimização de processos de transporte e distribuição;</li><li>Análise de indicadores de desempenho e implementação de melhorias;</li><li>Contato com fornecedores e parceiros logísticos.</li></ul><b>Requisitos</b><ul><li>Experiência comprovada em logística, preferencialmente em empresas de grande porte;</li><li>Conhecimento em sistemas de gestão de armazéns (WMS) e ERP;</li><li>Formação em Administração, Logística, Engenharia de Produção ou áreas afins;</li><li>Habilidades analíticas e capacidade de resolver problemas complexos.</li><li>Excelente comunicação e habilidades interpessoais.</li></ul><b>Desejável</b><ul><li>Experiência internacional em logística;</li><li>MBA ou especialização em logística ou supply chain.</li></ul><b>Benefícios</b><ul><li>Salário competitivo;</li><li>Plano de saúde e odontológico;</li><li>Vale-refeição ou alimentação;</li><li>Vale-transporte;</li><li>Ambiente de trabalho dinâmico e oportunidades de crescimento.</li></ul><p><br></p><p>Endereço: Avenida Cristóvão Colombo 789</p><ul></ul><p></p>"
   }
 ]
